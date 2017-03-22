@@ -13,7 +13,7 @@ let options = {
     username: 'TrailheadBot',
     password: oAuth.password
   },
-  channels: ['jaredshane']
+  channels: ['jaredshane', 'jimstewartallen']
 };
 
 let client = new tmi.client(options);
