@@ -40,13 +40,14 @@ client.connect();
 
 
 client.on('connected', (address, port) => {
+  client.color('GoldenRod');
 
   client.on('chat', (channel, user, message, self) => {
     if (self) return
 
     setInterval(() => {
       client.say(channel, 'hi')
-    }, 30001)
+    }, 31000)
 
     if (channel = 'jaredshane') {
       if (message == '!ping') {
