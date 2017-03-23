@@ -40,7 +40,7 @@ client.connect();
 
 
 client.on('connected', (address, port) => {
-  client.color('GoldenRod');
+  // client.color('GoldenRod');
 
   client.on('chat', (channel, user, message, self) => {
       if (self) return
