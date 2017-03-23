@@ -132,6 +132,9 @@ client.on('connected', (address, port) => {
       if (message == '~lowehello') {
         client.action(channel, 'Hello Lowebot, you handsome devil.')
       }
+      if (message == '~commands') {
+        client.action(channel, 'Here is a list of all the current commands: https://github.com/jaredshane/TrailheadBot/blob/dev/README.md')
+      }
      }
   })
 })
