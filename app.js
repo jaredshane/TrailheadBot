@@ -129,6 +129,9 @@ client.on('connected', (address, port) => {
       if (message == '~screen') {
         client.action(channel, 'Hi, have you seen my game? I seem to have forgotten to switch screens :(')
       }
+      if (message == '~lowehello') {
+        client.action(channel, 'Hello Lowebot, you handsome devil.')
+      }
      }
   })
 })
