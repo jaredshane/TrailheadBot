@@ -1,7 +1,7 @@
-# Trailbot
+# Trailheadbot
 
 
-#Commands for Jim Stewart Allen's Trailbot
+#Commands for [Jim Stewart Allen's TrailheadBot](https://www.twitch.tv/jimstewartallen)
 
 ~facebook - Come join us in the wagon circle on Facebook: https://www.facebook.com/groups/198654150555913/
 
