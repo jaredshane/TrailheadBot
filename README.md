@@ -1,7 +1,7 @@
 # Trailbot
 
 
-#Commands for Jim Stewart Allen
+#Commands for Jim Stewart Allen's Trailbot
 
 ~facebook - Come join us in the wagon circle on Facebook: https://www.facebook.com/groups/198654150555913/
 
